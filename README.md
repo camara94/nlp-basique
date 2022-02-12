@@ -25,3 +25,6 @@ Dans ce tutoriel, nous découvrir ensemble les bases de NLP en IA
 ### Investissement énorme par Big Tech
 
 ![image](images/6.png)
+
+## Liens Utils
+1. [Site pour tester les expressions regulières](https://regex101.com/r/bE8kK1/1)
