@@ -21,3 +21,7 @@ Dans ce tutoriel, nous découvrir ensemble les bases de NLP en IA
 ### Ressources d'apprentissage
 
 ![image](images/5.png)
+
+### Investissement énorme par Big Tech
+
+![image](images/6.png)
