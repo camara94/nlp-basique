@@ -17,3 +17,7 @@ Dans ce tutoriel, nous découvrir ensemble les bases de NLP en IA
 ### Le Prix du Materiel, Ressources Cloud
 
 ![image](images/4.png)
+
+### Ressources d'apprentissage
+
+![image](images/5.png)
