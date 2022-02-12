@@ -5,10 +5,15 @@ Dans ce tutoriel, nous découvrir ensemble les bases de NLP en IA
 
 ![image](images/1.png)
 
-## Les Modèles Pré-entrainés
+## Les Raison du Développement de NLP
+### Les Modèles Pré-entrainés
 
 ![image](images/2.png)
 
-## Les Ecosystèmes Open Sources
+### Les Ecosystèmes Open Sources
 
 ![image](images/3.png)
+
+### Le Prix du Materiel, Ressources Cloud
+
+![image](images/4.png)
